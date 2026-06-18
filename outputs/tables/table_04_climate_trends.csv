@@ -1,0 +1,8 @@
+indicator,slope_per_decade,linear_p,kendall_tau,kendall_p
+temperature_C,0.17101,2e-05,0.33684,2e-05
+precipitation_mm,3.38914,0.70693,0.04281,0.58427
+snowfall_mm,-11.33745,0.16228,-0.09193,0.23998
+snow_cover_days,-1.89364,0.04607,-0.14433,0.06712
+mean_snow_depth_m,-0.00511,0.11158,-0.12982,0.09704
+snowmelt_mm,-11.39053,0.23403,-0.09193,0.23998
+cpdd_C_days,41.9663,0.0,0.35368,1e-05

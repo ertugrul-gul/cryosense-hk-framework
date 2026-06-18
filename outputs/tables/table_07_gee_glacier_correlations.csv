@@ -1,0 +1,6 @@
+indicator,spearman_rho,p_value
+temperature_C,-0.2591,0.2214
+precipitation_mm,0.273,0.1967
+snow_cover_days,0.0518,0.81
+mean_snow_depth_m,0.5087,0.0111
+cpdd_C_days,-0.4287,0.0366

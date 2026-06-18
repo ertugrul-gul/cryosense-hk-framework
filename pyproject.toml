@@ -1,0 +1,41 @@
+[project]
+name = "cryosense-hk"
+version = "1.0.0"
+description = "An explainable tree-ensemble framework for lead-time snow forecasting from ERA5-Land in the Cilo-Sat cryosphere, Hakkari (Türkiye)."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = { text = "MIT" }
+authors = [{ name = "Ertuğrul Gül", email = "ertugrulgul@hakkari.edu.tr" }]
+keywords = [
+    "snow forecasting",
+    "ERA5-Land",
+    "tree ensemble",
+    "explainable AI",
+    "TreeSHAP",
+    "cryosphere",
+    "Hakkari",
+]
+
+dependencies = [
+    "numpy==2.4.6",
+    "pandas==2.3.3",
+    "scipy==1.16.3",
+    "scikit-learn==1.8.0",
+    "xgboost==3.1.2",
+    "shap==0.51.0",
+    "matplotlib==3.10.8",
+    "seaborn==0.13.2",
+    "geopandas==1.1.3",
+    "rasterio==1.5.0",
+    "xarray==2025.12.0",
+    "netCDF4>=1.7",
+    "ipython>=8.0",
+    "jupyterlab>=4.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["cryosense_hk"]

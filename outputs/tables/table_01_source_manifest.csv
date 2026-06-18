@@ -1,0 +1,7 @@
+Source,Path,Status,Coverage,Notes
+ERA5-Land processed daily,data/hakkari_gunluk_tum_degiskenler.csv,available,1950-01-01 to 2025-12-31,"27,759 days; missing rows=0; NA=0"
+ERA5-Land raw NetCDF inventory,nc_cilo_sat/*.nc,available,historical forcing variables,0 files
+EC-Earth3-CC CMIP6 SSP,nc_cilo_sat/SSP/*EC-Earth3-CC*.nc,available,2015-2099,0 direct CMIP6 files
+Study-area boundaries,data/spatial/natural_earth_turkey*.geojson,available,Turkey and Hakkari,Natural Earth 1:10m administrative boundaries
+GLIMS glacier polygons,data/spatial/hakkari_glaciers_glims.gpkg,available,Cilo-Sat; 2000 and 2009,ROI polygons used in GEE area workflow
+Landsat/GEE glacier area,data/hakkari_glacier_area_2000_2024_gee_executed.csv,executed series,2000-2024 excluding 2012,NDSI threshold=0.20; values captured from executed GEE notebook output; n=24
