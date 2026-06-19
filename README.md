@@ -170,7 +170,7 @@ If you use this code, please cite the paper and the archived release:
 ```
 Gül E. CryoSENSE-HK: An explainable tree-ensemble framework for lead-time snow
 forecasting from ERA5-Land in the Cilo-Sat cryosphere, Hakkari (Türkiye). PLOS ONE (under review).
-Code: https://github.com/ertugrul-gul/cryosense-hk-framework ; archived at Zenodo (concept DOI listed on the GitHub Releases page).
+Code: https://github.com/ertugrul-gul/cryosense-hk-framework ; archived at Zenodo, concept DOI: 10.5281/zenodo.20765680.
 ```
 
 ---
