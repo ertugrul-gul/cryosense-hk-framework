@@ -1,6 +1,6 @@
 # Data acquisition
 
-No dataset is bundled with this repository (per the journal's instruction that only source code is required). Every input is public. This file documents the exact source, access route and citation for each, plus the schema of the single processed table the notebook consumes.
+The processed model-input tables that the notebook consumes are bundled in this repository and archived on Zenodo: the processed daily ERA5-Land table (`hakkari_gunluk_tum_degiskenler.csv`), the precomputed SPEI-12 series (`hakkari_spei_sonuclari.csv`) and the Landsat glacier-area series (`hakkari_glacier_area_2000_2024_gee_executed.csv`). All are derived from public sources and redistributed under their original licences (see the table below). The raw archives they are built from (hourly ERA5-Land NetCDF and CMIP6 SSP forcing) are large and are not bundled; obtain them from their original providers as documented here. This file also gives the schema of the processed daily table the framework consumes.
 
 ## Expected local layout
 

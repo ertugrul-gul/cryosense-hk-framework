@@ -23,3 +23,7 @@ outputs/models/*
 # Keep these tracked
 !data/README.md
 !outputs/tables/
+# Processed model-input tables (openly archived for data availability; derived from public sources)
+!data/hakkari_gunluk_tum_degiskenler.csv
+!data/hakkari_glacier_area_2000_2024_gee_executed.csv
+!data/hakkari_spei_sonuclari.csv
