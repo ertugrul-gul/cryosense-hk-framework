@@ -10,6 +10,14 @@ venv/
 # OS
 .DS_Store
 
+# Claude Code / local session artifacts (never publish to GitHub/Zenodo)
+.claude/
+
+# Backups and manuscript-submission artifacts (local only, not part of the code archive)
+*.bak
+outputs/plos_numbered/
+outputs/figures/fig1_manuscript/
+
 # Large raw data and reanalysis archives (obtain from public providers; see data/README.md)
 data/*.csv
 data/*.nc

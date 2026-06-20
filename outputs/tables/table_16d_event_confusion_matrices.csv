@@ -1,0 +1,33 @@
+event,horizon_days,observed,predicted,count
+High snowmelt day,1,No event,No event,3628
+High snowmelt day,1,No event,Event,26
+High snowmelt day,1,Event,No event,36
+High snowmelt day,1,Event,Event,328
+Snow-covered day,1,No event,No event,2161
+Snow-covered day,1,No event,Event,5
+Snow-covered day,1,Event,No event,13
+Snow-covered day,1,Event,Event,1839
+High snowmelt day,7,No event,No event,3591
+High snowmelt day,7,No event,Event,63
+High snowmelt day,7,Event,No event,67
+High snowmelt day,7,Event,Event,297
+Snow-covered day,7,No event,No event,2146
+Snow-covered day,7,No event,Event,20
+Snow-covered day,7,Event,No event,48
+Snow-covered day,7,Event,Event,1804
+High snowmelt day,15,No event,No event,3583
+High snowmelt day,15,No event,Event,71
+High snowmelt day,15,Event,No event,79
+High snowmelt day,15,Event,Event,285
+Snow-covered day,15,No event,No event,2101
+Snow-covered day,15,No event,Event,65
+Snow-covered day,15,Event,No event,59
+Snow-covered day,15,Event,Event,1793
+High snowmelt day,30,No event,No event,3570
+High snowmelt day,30,No event,Event,84
+High snowmelt day,30,Event,No event,81
+High snowmelt day,30,Event,Event,283
+Snow-covered day,30,No event,No event,2028
+Snow-covered day,30,No event,Event,138
+Snow-covered day,30,Event,No event,34
+Snow-covered day,30,Event,Event,1818

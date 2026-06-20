@@ -1,0 +1,13 @@
+target,horizon_days,selected_features
+snowc,1,"snowc_lag0, sd_lag0, snowc_lag1, sd_lag1"
+sd,1,"sd_lag0, sd_lag1, sd_lag3, sd_lag7, snowc_lag0, snowc_lag1"
+smlt_mm,1,"smlt_mm_lag1, sd_lag0, snowc_lag0, sd_lag1, smlt_mm_lag3, snowc_lag1, sd_lag3, snowc_lag3, doy_sin, t2m_C, doy_cos, t2m_C_lag1"
+snowc,7,"sd_lag0, snowc_lag0, doy_cos, doy_sin, sd_lag1, snowc_lag1"
+sd,7,"sd_lag0, sd_lag1, sd_lag3, sd_lag7, doy_sin, snowc_lag0, doy_cos, snowc_lag1, snowc_lag3, sshf_W"
+smlt_mm,7,"doy_cos, doy_sin, smlt_mm_lag1, sd_lag0, t2m_C, t2m_C_lag1, t2m_C_lag3, t2m_C_lag7"
+snowc,15,"doy_cos, doy_sin, t2m_C, t2m_C_lag1, t2m_C_lag3, t2m_C_lag7, net_radiation_W, sd_lag0"
+sd,15,"sd_lag0, sd_lag1, sd_lag3, sd_lag7, doy_cos, doy_sin, t2m_C_lag3, t2m_C_lag7, t2m_C, t2m_C_lag1, snowc_lag0, snowc_lag1"
+smlt_mm,15,"doy_sin, doy_cos, t2m_C, sd_lag7, t2m_C_lag1, t2m_C_lag3, sd_lag0, sd_lag3, sd_lag1, t2m_C_lag7"
+snowc,30,"doy_sin, doy_cos, net_radiation_W, t2m_C, t2m_C_lag1, t2m_C_lag3, t2m_C_lag7, sshf_W, e_mm, slhf_W, ssrd_W, sd_lag0"
+sd,30,"sd_lag0, sd_lag1, sd_lag3, sd_lag7, doy_cos, doy_sin, net_radiation_W, t2m_C, t2m_C_lag1, t2m_C_lag3, t2m_C_lag7, sshf_W"
+smlt_mm,30,"doy_sin, doy_cos, sd_lag3, sd_lag1, sd_lag0, sd_lag7, net_radiation_W, sshf_W"
