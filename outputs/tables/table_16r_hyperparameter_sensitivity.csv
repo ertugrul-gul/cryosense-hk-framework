@@ -1,0 +1,325 @@
+horizon_days,target,algorithm,settings,is_published,valid_RMSE,test_R2,test_RMSE
+1,snowc,Random Forest,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,4.367705795513077,0.9920625344941917,4.352664391174576
+1,snowc,Random Forest,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,4.302620271479428,0.9922757947056793,4.293793567053568
+1,snowc,Random Forest,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,4.318160894354116,0.9922241985076508,4.308110553621225
+1,snowc,Random Forest,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,4.35353990852357,0.9921506601552174,4.3284342351108185
+1,snowc,Random Forest,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,4.240540823595318,0.9922028399535009,4.314023250377175
+1,snowc,Random Forest,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,4.312192974039221,0.9922920271076855,4.289279494923173
+1,snowc,Random Forest,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,4.390950030029746,0.9919718890918802,4.377447426082176
+1,snowc,Random Forest,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,4.265750344151469,0.9921928459376393,4.316787116316632
+1,snowc,Random Forest,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,4.3199919041814825,0.9923202380138599,4.281422994637011
+1,snowc,Random Forest,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,4.364744220910206,0.992107364834449,4.340355189384648
+1,snowc,Random Forest,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,4.308697425529222,0.9922231697644334,4.308395527005578
+1,snowc,Random Forest,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,4.338108449834316,0.9922737164776412,4.294371159291046
+1,snowc,Random Forest,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,4.388215938366244,0.9920520437913931,4.355539832381688
+1,snowc,Random Forest,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,4.280727971991815,0.9921913169946744,4.3172097926293835
+1,snowc,Random Forest,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,4.333898828363464,0.9923342797789426,4.277507102346506
+1,snowc,Random Forest,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,4.380527050724805,0.9919989289391697,4.370069267786354
+1,snowc,Random Forest,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,4.275585511414579,0.992167088542727,4.323902233530491
+1,snowc,Random Forest,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,4.3199415429405645,0.9923415339680824,4.275482687865371
+1,snowc,Random Forest,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,4.361144896331849,0.99220731216439,4.312785877478942
+1,snowc,Random Forest,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,4.294134027378102,0.9923271266446668,4.2795023778857875
+1,snowc,Random Forest,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,4.318749891942457,0.9923191542962069,4.281725067149999
+1,snowc,Random Forest,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,4.344257346416587,0.9921146938611273,4.338339514867149
+1,snowc,Random Forest,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,4.262522270581833,0.9922560191109908,4.299286562068738
+1,snowc,Random Forest,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,4.3182559317801426,0.9923683019073314,4.26800429476615
+1,snowc,Random Forest,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,4.349653610029128,0.9920817995348482,4.347379001338678
+1,snowc,Random Forest,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,4.239607645546863,0.9922783104423493,4.293094276109981
+1,snowc,Random Forest,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,4.293921465623604,0.992388403742135,4.262379643055747
+1,sd,Random Forest,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,0.005815992359125939,0.999303723609037,0.005384114864522402
+1,sd,Random Forest,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,0.005866857888495562,0.9993065114454764,0.005373325265224899
+1,sd,Random Forest,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,0.005866643200803767,0.9993104933944675,0.00535787648139609
+1,sd,Random Forest,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,0.005593146643804021,0.9993675540941296,0.005131391784309226
+1,sd,Random Forest,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,0.005540154408964598,0.9993888896930936,0.005044095332046733
+1,sd,Random Forest,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,0.005527991276995819,0.9993913852090034,0.0050337858208642635
+1,sd,Random Forest,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,0.005628074806295325,0.9993610590250173,0.005157673566665556
+1,sd,Random Forest,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,0.0055723305282525505,0.999378342681623,0.005087436565399179
+1,sd,Random Forest,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,0.005518251988995138,0.9993860485777462,0.005055806997433551
+1,sd,Random Forest,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,0.005810390236340975,0.999311344662955,0.005354568028658015
+1,sd,Random Forest,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,0.005830815901325352,0.999314747074475,0.005341324101320632
+1,sd,Random Forest,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,0.005820254524159949,0.9993112216983357,0.005355046056631258
+1,sd,Random Forest,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,0.005577985976849689,0.9993733841223005,0.005107685866178265
+1,sd,Random Forest,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,0.005525402281199158,0.9993914503497143,0.0050335164278374495
+1,sd,Random Forest,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,0.005508866274934798,0.999392808352617,0.005027897044425609
+1,sd,Random Forest,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,0.005606001781808001,0.9993670451073037,0.005133456218210749
+1,sd,Random Forest,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,0.0055689553969561845,0.999383046617236,0.005068152294595661
+1,sd,Random Forest,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,0.005490660833983458,0.9993897071816589,0.005040720433815176
+1,sd,Random Forest,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,0.005809859758018793,0.9993092355887163,0.005362761204168974
+1,sd,Random Forest,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,0.00582673039984045,0.9993143346329274,0.005342931283509882
+1,sd,Random Forest,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,0.00581566946555791,0.99931408656882,0.005343897694887625
+1,sd,Random Forest,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,0.005573044454001976,0.999377728110608,0.005089950666500319
+1,sd,Random Forest,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,0.005507036836337997,0.9993898067204178,0.005040309346300215
+1,sd,Random Forest,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,0.005491843177910605,0.9993932791643578,0.00502594737003166
+1,sd,Random Forest,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,0.0055761233803117965,0.999373711976554,0.00510634948475654
+1,sd,Random Forest,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,0.0055268801750174585,0.999385210571433,0.005059256255201352
+1,sd,Random Forest,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,0.005470211339022748,0.999391343848531,0.005033956861911494
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,1.2691108330765153,0.946102181579384,1.1749907100468977
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,1.2653748932505704,0.9448514081650746,1.1885461600324843
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,1.2815974291318317,0.9446141899880911,1.1910996451027989
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,1.2061790842164846,0.9512362229428499,1.1176286030002212
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,1.2092091365199416,0.9509499989990284,1.12090382129339
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,1.2192437036706998,0.9493637470397481,1.1388843361013052
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,1.223601182373004,0.9495848275823005,1.1363954019818823
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,1.2119333113454434,0.9515253679438945,1.1143101850229133
+1,smlt_mm,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,1.2202135719543004,0.9506714520099193,1.1240820309205155
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,1.272936183408717,0.9457857107091054,1.1784352472597224
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,1.2713892981009818,0.9448793877528433,1.1882446178757133
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,1.287951393880281,0.9436526506809414,1.2013943491320647
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,1.2068966245020956,0.9517209728661409,1.1120596791877386
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,1.2085111025061843,0.9511612406860982,1.118487541024843
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,1.2236170708381662,0.9495508362624419,1.136778432218493
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,1.2169212291162765,0.9501592534139887,1.129902862873572
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,1.2093345350737872,0.9516928650905232,1.1123833495020252
+1,smlt_mm,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,1.2180283282266622,0.9506845947627702,1.123932274672979
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,1.2726302761893018,0.9460204270172985,1.1758815109554235
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,1.2744160048608553,0.9451559722483396,1.1852596786866414
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,1.2860950234683663,0.9436971476123281,1.2009198909666057
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,1.205440537026163,0.951750314519046,1.1117216998389003
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,1.2045324648013123,0.9513808331289857,1.1159701949517504
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,1.2245799376187247,0.9500618455792463,1.1310064545718717
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,1.2125535048927945,0.9511626693611578,1.1184711814063442
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,1.2060185134187211,0.9523023006148682,1.105344247736216
+1,smlt_mm,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,1.2157136028275892,0.9507240297305398,1.1234828096741116
+7,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,12.917233687372764,0.956087212586559,10.237873514309577
+7,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,12.96243791592607,0.956046686426151,10.242596580720399
+7,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,12.951917646392436,0.9555356163232358,10.301972719064013
+7,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,13.362048953564257,0.9569571360006685,10.135958819963724
+7,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,13.244630912049779,0.9557275841941338,10.27971010379737
+7,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,13.143914141929399,0.9570031279765929,10.130542157066552
+7,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,14.268674119535198,0.9509176216687387,10.823732646900138
+7,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,13.84669251594653,0.9548278990383777,10.383634723939071
+7,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,13.304026605738429,0.9565543770581916,10.183270293937937
+7,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,12.91272012867769,0.9563618523890393,10.205808393748262
+7,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,12.937919522130771,0.9560363544081817,10.24380036338129
+7,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,12.9109430913352,0.955440000034442,10.31304346074372
+7,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,13.381474099299353,0.9568486018072074,10.148729874229485
+7,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,13.249277496788114,0.95614855190345,10.230720659104128
+7,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,13.128526626007178,0.9572875562853718,10.09697932019904
+7,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,14.244496352336467,0.9511587889690277,10.797108582923215
+7,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,13.845902063381716,0.9547209960769135,10.395914264931838
+7,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,13.306777651007703,0.9565198939658359,10.187310758502798
+7,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,12.948768180315795,0.9564741850112036,10.192664114919348
+7,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,12.933466767943353,0.9562175869834895,10.222664405071086
+7,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,12.926275943304812,0.9558924270491095,10.260554642956084
+7,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,13.370301010612911,0.9565807013921012,10.180184730787879
+7,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,13.238361463495169,0.9563635106187971,10.205614483867988
+7,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,13.114503403266628,0.956773964453517,10.157503020779428
+7,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,14.230124244087143,0.9515311307163182,10.755873879913102
+7,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,13.838754726599078,0.9546178096755635,10.407753157465779
+7,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,13.30079142757533,0.9562197200497913,10.222415379434404
+7,sd,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,0.02620041436375036,0.9846462366795203,0.02528313377637342
+7,sd,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,0.026284552804433634,0.9845877303894675,0.025331259302439044
+7,sd,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,0.026395086806933563,0.9842836329988482,0.02557994242317748
+7,sd,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,0.025189847832640288,0.9858422787806707,0.02427840545351873
+7,sd,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,0.02515675525325758,0.9860283369005887,0.024118346720852495
+7,sd,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,0.02525368644865415,0.985509566424775,0.024562025163531617
+7,sd,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,0.026214183969154172,0.9846213162364033,0.025303643778657316
+7,sd,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,0.0258360177621469,0.9850704807510784,0.024931384310548425
+7,sd,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,0.025555220981503455,0.9855953600102721,0.024489204961656887
+7,sd,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,0.026306955543006362,0.9846617713954761,0.02527033998463014
+7,sd,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,0.026251299876368,0.984663361881278,0.025269029756442515
+7,sd,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,0.02631328351479322,0.9844280272700157,0.025462163292682683
+7,sd,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,0.025209142466483484,0.9858442384967997,0.024276725083189395
+7,sd,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,0.02511262587636062,0.9861600612225043,0.02400438403621682
+7,sd,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,0.025271861908772484,0.9856631632682655,0.024431501109101944
+7,sd,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,0.02611791920201104,0.9848726942996051,0.025095986581404772
+7,sd,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,0.02589183450760995,0.9851672304048665,0.024850470004540156
+7,sd,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,0.0255351191046017,0.985700874640148,0.02439934784851127
+7,sd,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,0.026219817711489315,0.9847284085393333,0.02521538656442672
+7,sd,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,0.02606553272884842,0.9848271430873162,0.025133742589163212
+7,sd,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,0.026340140459538492,0.9845530071924217,0.025359778380815184
+7,sd,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,0.025140932619633724,0.9859177873392471,0.024213575872606093
+7,sd,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,0.025131712983846838,0.9860361569364409,0.024111596173936035
+7,sd,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,0.025174779983778327,0.9858230190090216,0.024294913676117837
+7,sd,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,0.026020994795459135,0.9850577011762985,0.024942052582293983
+7,sd,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,0.02583593455254662,0.9852207538504864,0.024805593529228353
+7,sd,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,0.02544312025379201,0.9857488399537857,0.02435839060702924
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.03",False,2.2475417431455433,0.8157843072392712,2.172261731026356
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.06",False,2.1918099385606684,0.82901791801448,2.0927827163262394
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.12",False,2.1654259673471516,0.8322450056895767,2.0729392213213753
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.03",False,2.1875535038723983,0.8250816883350707,2.1167349365146597
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.06",False,2.156125454673422,0.831431802527985,2.0779575003958626
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.12",False,2.172887102536196,0.8297442279705185,2.0883330496028245
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.03",False,2.1652009223370277,0.8257313015633101,2.112800705572193
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.06",False,2.174411975125505,0.8278993524505645,2.0996170540408894
+7,smlt_mm,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.12",False,2.1890446182228143,0.8103676408196353,2.2039668778518817
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.03",False,2.207372413179306,0.826444506488247,2.108472892335298
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.06",False,2.1788107386671602,0.8313852679255684,2.0782442990180225
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.12",False,2.158005552366456,0.8296488310046677,2.0889180304685286
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.03",False,2.164411252868354,0.830624708958356,2.0829261228417018
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.06",True,2.1507113322468174,0.8299809971211497,2.0868804560696064
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.12",False,2.1966079837157135,0.8257204887027078,2.112866251092855
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.03",False,2.1509688416095925,0.8284893602788244,2.096014934968618
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.06",False,2.194686902698599,0.8241377908809876,2.1224384347972687
+7,smlt_mm,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.12",False,2.2141514772549504,0.8033565611859379,2.2443395856732997
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.03",False,2.1851097084440605,0.8303836694477077,2.0844077114284096
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.06",False,2.1721296794274076,0.8312581869650991,2.0790273134516313
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.12",False,2.1795341098087007,0.825396628770993,2.1148284872655165
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.03",False,2.169351091803375,0.8311712853629868,2.0795625914181963
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.06",False,2.1660540897521208,0.8265907687460223,2.1075842572364163
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.12",False,2.215111826914481,0.8207191094868347,2.1429687591240905
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.03",False,2.1687287828431283,0.8245423258576685,2.119995911999389
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.06",False,2.2176509133575855,0.8165200184349268,2.1679196575976354
+7,smlt_mm,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.12",False,2.244322161996548,0.7967874298186262,2.2815191784472635
+15,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,14.496086610075722,0.9368065447422865,12.281468766308887
+15,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,14.399826976047274,0.9369707717753344,12.265499855563439
+15,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,14.396808992995522,0.9363762836106159,12.323207855483997
+15,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,14.577102918121874,0.9391823556338156,12.048391037999034
+15,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,14.557197485524261,0.9380417798483115,12.160844179189267
+15,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,14.468375908264,0.9390066142492175,12.06578626529875
+15,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,14.896570165454426,0.932617808377346,12.681972970550765
+15,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,14.800754401243738,0.9337363347949833,12.57627380522332
+15,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,14.53497383385441,0.9375258528193244,12.211370978882105
+15,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,14.457254301494437,0.9378175229615769,12.18283230104032
+15,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,14.400866826136532,0.9375992139639482,12.204199185943608
+15,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,14.383754519262718,0.9368648115544954,12.275805465729567
+15,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,14.538185764777808,0.9397462072282465,11.99240955479776
+15,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,14.536736902862572,0.9385116687458006,12.114642714019519
+15,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,14.47502948970528,0.9394348712483451,12.023352486278455
+15,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,14.80690236408718,0.9332389460249756,12.623385618318308
+15,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,14.748763564390535,0.9347800371327655,12.47683783937261
+15,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,14.5068731237858,0.9374598301580414,12.21782176175485
+15,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,14.41519263791087,0.9388365594813349,12.082594778781672
+15,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,14.400844190105778,0.9376055688627134,12.203577732032903
+15,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,14.40822863612657,0.9371673373203987,12.246359074289382
+15,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,14.509085684649836,0.9389006199465708,12.076265675873405
+15,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,14.529514028893445,0.9387093629720502,12.095151836345478
+15,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,14.468794241250446,0.9396772068174037,11.99927422159774
+15,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,14.804193000738211,0.9338593062839511,12.56459892063139
+15,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,14.72539068783592,0.935506971094266,12.407110324800637
+15,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,14.508135607521726,0.9380765237206425,12.157434025816247
+15,sd,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,0.04021382796020638,0.9615671628992619,0.04000135514045578
+15,sd,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,0.040378928226178515,0.9616548742403475,0.03995568356282593
+15,sd,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,0.0401291390962629,0.9607352950025323,0.040431946619392374
+15,sd,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,0.039453467665072954,0.9639314502270978,0.03875143791703552
+15,sd,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,0.039436495629181056,0.9639895436742381,0.03872021803399094
+15,sd,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,0.03917356123127991,0.9641772560460651,0.03861916737636715
+15,sd,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,0.04005676842641437,0.9626949600131186,0.03941007276068215
+15,sd,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,0.03981049673884511,0.9633711019499277,0.03905129213899839
+15,sd,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,0.039665568111825776,0.9635423399238919,0.038959903942327505
+15,sd,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,0.040118173064637684,0.9619201826149256,0.039817217757824035
+15,sd,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,0.04025030313564915,0.9617451163972094,0.03990863963070372
+15,sd,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,0.0400106249862748,0.9610974653242143,0.04024504626700932
+15,sd,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,0.039368679522207614,0.9637710288809096,0.038837519293909335
+15,sd,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,0.0393213303812274,0.9636158136716408,0.03892062586153137
+15,sd,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,0.0393027730894983,0.9641535815188723,0.03863192658208647
+15,sd,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,0.0401852381245812,0.9628141704594406,0.03934705377408628
+15,sd,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,0.039797809513126885,0.9634036358743161,0.03903394553436901
+15,sd,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,0.03956589741619622,0.963697528943134,0.038876895362663456
+15,sd,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,0.04012469722885509,0.9618167152744646,0.03987127509345989
+15,sd,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,0.04005050645113462,0.9619422040542852,0.03980570300656504
+15,sd,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,0.04007380948875001,0.961436647160245,0.040069218742790576
+15,sd,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,0.039369001603731794,0.9638853810015741,0.0387761780167518
+15,sd,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,0.03936147316298047,0.9637633713982101,0.03884162349435727
+15,sd,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,0.03931072584705346,0.9645298458636223,0.038428640414075815
+15,sd,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,0.04002112058751243,0.962694710971138,0.03941020430786987
+15,sd,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,0.039870958531269936,0.9634209231603906,0.03902472507344372
+15,sd,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,0.03963504643710524,0.9639443626135434,0.038744500871662584
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,2.256826819645714,0.7981891483404757,2.273636837165489
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,2.258234960935328,0.794323184226424,2.295310849278044
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,2.252265300941721,0.7973549609530389,2.278331042787082
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,2.2457686772237633,0.7874022217321677,2.3336095868416784
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,2.2608942619151473,0.7911311251783606,2.3130536336490275
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,2.26534115397381,0.7939821262094444,2.2972131295716665
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,2.293838823813026,0.7778709925420566,2.385346516782844
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,2.2784751608726963,0.7834169197667519,2.355380647309187
+15,smlt_mm,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,2.282749427331922,0.7895228952867366,2.321941479797167
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,2.2625471169174127,0.7987388417896213,2.2705382538112224
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,2.2578769443986686,0.7957486687866772,2.2873429626492574
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,2.2540889515252673,0.7985666004984301,2.271509620584546
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,2.2604142997464596,0.7906715611169742,2.3155968853674733
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,2.257115282651166,0.7927945208692131,2.3038248427182992
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,2.2632258725421113,0.7974196058456009,2.277967613674706
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,2.293518157812721,0.7819623538671558,2.3632767472199805
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,2.2796363165138387,0.7847087054658367,2.3483459392059354
+15,smlt_mm,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,2.2758865180655294,0.7914812502269661,2.3111141448410017
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,2.2587230426333096,0.7986518048009156,2.2710291569071193
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,2.2592026955744764,0.7968555274962307,2.2811368714484304
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,2.2508459341833915,0.797241414659604,2.2789692518897517
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,2.2653461660994236,0.7911427362568131,2.312989341110261
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,2.261121388369781,0.7916184363981214,2.310353769416593
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,2.2646002030366614,0.7960588949791522,2.2856052424112465
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,2.2846806412476894,0.7826034012125708,2.3598000827867827
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,2.2759312773044873,0.7846974654155365,2.348407240295761
+15,smlt_mm,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,2.267999281765841,0.7904907971497419,2.3165964775779533
+30,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=1",False,16.236143968642914,0.9256656903037972,13.320143800521977
+30,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=2",False,16.177121726750848,0.9248670500885592,13.39150776168945
+30,snowc,Extra Trees,"n_estimators=60, max_depth=8, min_samples_leaf=5",False,16.204277290885038,0.9258973343632472,13.299373178128457
+30,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=1",False,16.01377266602017,0.9318089739848865,12.757861100210162
+30,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=2",False,16.032237357835175,0.9316251074873925,12.775049315934584
+30,snowc,Extra Trees,"n_estimators=60, max_depth=12, min_samples_leaf=5",False,16.09976065440915,0.9302853582628997,12.899600396954336
+30,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=1",False,16.417521789399252,0.9282818427616717,13.083646994305361
+30,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=2",False,16.314448644787614,0.9291991056006732,12.99970895016672
+30,snowc,Extra Trees,"n_estimators=60, max_depth=18, min_samples_leaf=5",False,16.185017149595037,0.9306053954003635,12.869957412591038
+30,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=1",False,16.172997669336144,0.9262946894634939,13.263668139438135
+30,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=2",False,16.18873873563606,0.925552271036445,13.330301862906808
+30,snowc,Extra Trees,"n_estimators=100, max_depth=8, min_samples_leaf=5",False,16.173945003564317,0.9267116627849651,13.22609662669368
+30,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=1",False,16.03413470329553,0.9309574439588005,12.83727035419335
+30,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=2",True,16.040992636035114,0.9316539470910121,12.772354860392754
+30,snowc,Extra Trees,"n_estimators=100, max_depth=12, min_samples_leaf=5",False,16.09656815876734,0.93036782776336,12.891968295753834
+30,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=1",False,16.339287023762342,0.9286710176995125,13.04809983202671
+30,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=2",False,16.295694808388077,0.930794983678272,12.852364820977728
+30,snowc,Extra Trees,"n_estimators=100, max_depth=18, min_samples_leaf=5",False,16.118834315060862,0.9301732088558309,12.909971971351478
+30,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=1",False,16.22778935481057,0.9270034826364606,13.199738494899496
+30,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=2",False,16.21257163378285,0.9254382548772144,13.340505588182959
+30,snowc,Extra Trees,"n_estimators=200, max_depth=8, min_samples_leaf=5",False,16.214039294916716,0.9262432165175836,13.268298748230135
+30,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=1",False,16.075398160201843,0.9308801159689456,12.84445724422538
+30,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=2",False,16.06535662983029,0.9316765020231103,12.770247179293328
+30,snowc,Extra Trees,"n_estimators=200, max_depth=12, min_samples_leaf=5",False,16.03600794794419,0.9312593035034494,12.809176830430934
+30,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=1",False,16.300733286262968,0.9286640478081166,13.048737312152523
+30,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=2",False,16.304160565998544,0.9310899151121941,12.824949080139113
+30,snowc,Extra Trees,"n_estimators=200, max_depth=18, min_samples_leaf=5",False,16.116012645460753,0.9307943427105275,12.852424339294844
+30,sd,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.03",False,0.061977539722284945,0.900385221526963,0.06439992602703473
+30,sd,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.06",False,0.05971930056885107,0.9084248839277774,0.06174648227226729
+30,sd,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.12",False,0.0591523973216072,0.9096983520146482,0.061315647644284293
+30,sd,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.03",False,0.059088935956451656,0.9070016849759864,0.062224443572716344
+30,sd,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.06",False,0.058914354372030485,0.9070068564777622,0.062222713443014006
+30,sd,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.12",False,0.06065819578052753,0.9050792293348587,0.06286430369984457
+30,sd,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.03",False,0.059324707233765595,0.9066181570025462,0.06235261933874699
+30,sd,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.06",False,0.060356241541664045,0.9039079984143044,0.0632509571149335
+30,sd,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.12",False,0.06134538332742647,0.9012359243998074,0.06412435110511373
+30,sd,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.03",False,0.060382305227026985,0.9072868800365266,0.06212895942224501
+30,sd,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.06",False,0.059209497582561374,0.909872554151198,0.061256476668974616
+30,sd,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.12",False,0.05924477098491757,0.9091426888702445,0.061504008510302986
+30,sd,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.03",False,0.05919670352358821,0.9081159307921955,0.061850553700546665
+30,sd,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.06",True,0.058995514895397165,0.9063244428479672,0.06245060128171712
+30,sd,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.12",False,0.06124044607701296,0.9043183285154733,0.063115766165976
+30,sd,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.03",False,0.059795165908428025,0.9061563123947782,0.06250661984788417
+30,sd,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.06",False,0.060517935520123044,0.9029456259245754,0.06356690085137368
+30,sd,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.12",False,0.06230921180044466,0.9005263807405216,0.06435428086368451
+30,sd,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.03",False,0.05907112518030348,0.9106059375565595,0.061006740051918175
+30,sd,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.06",False,0.059143417024722734,0.9094468373793498,0.061400978640803856
+30,sd,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.12",False,0.06000901311596246,0.9077854144840136,0.061961695198158
+30,sd,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.03",False,0.059255202678630194,0.9081224367166111,0.061848363973023
+30,sd,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.06",False,0.05948053276545568,0.9051179013761923,0.06285149649969458
+30,sd,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.12",False,0.0618561819520479,0.9022271172810454,0.06380176480179213
+30,sd,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.03",False,0.060172620373860564,0.9047076272022626,0.06298723617543263
+30,sd,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.06",False,0.061424547599210115,0.901336416555278,0.06409171963338536
+30,sd,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.12",False,0.06294663288114112,0.8990295846467897,0.06483664785858928
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.03",False,2.6672028754214265,0.7013032913471773,2.7660756783655356
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.06",False,2.6292173385298847,0.7147938863335006,2.7028892739526507
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=3, learning_rate=0.12",False,2.6250354826147997,0.724844520801581,2.6548373694177743
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.03",False,2.616999396058752,0.7110297302118174,2.7206672018263616
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.06",False,2.588515983762947,0.7267203241134965,2.6457725505145633
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=4, learning_rate=0.12",False,2.620980686282559,0.7293147330176407,2.6331836428840685
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.03",False,2.5718350068915554,0.7139659469860111,2.7068096083199946
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.06",False,2.6316582549943384,0.7158327446297217,2.697962169609966
+30,smlt_mm,XGBoost,"n_estimators=120, max_depth=6, learning_rate=0.12",False,2.7410186850977922,0.7091624137131969,2.729443478204062
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.03",False,2.634193980026813,0.705526573624964,2.7464512477455205
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.06",False,2.6217225141880043,0.7212899350121007,2.6719305508980242
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=3, learning_rate=0.12",False,2.6160010290316285,0.7286780828534222,2.6362784404772794
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.03",False,2.5905590389905098,0.7183995854023535,2.6857493814254547
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.06",True,2.5844786385569645,0.7305560575756165,2.627139000057905
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=4, learning_rate=0.12",False,2.650360536257079,0.726207769608421,2.6482525508399406
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.03",False,2.5917904942696564,0.7135115036213859,2.7089590088131943
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.06",False,2.6784984924347794,0.7121314984419538,2.7154756515610305
+30,smlt_mm,XGBoost,"n_estimators=180, max_depth=6, learning_rate=0.12",False,2.822127681511237,0.701395421870221,2.765649058912599
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.03",False,2.6172971186614724,0.714181421445951,2.7057898727036327
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.06",False,2.637509879403026,0.7261571517964394,2.648497339661113
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=3, learning_rate=0.12",False,2.6176370051795432,0.7283597820799631,2.6378243596458493
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.03",False,2.5949446635945774,0.724215679095332,2.657869327384416
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.06",False,2.6214752310452796,0.7314580602382044,2.6227379493321177
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=4, learning_rate=0.12",False,2.7276176880254828,0.7224468124028385,2.6663794231154685
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.03",False,2.642724244737808,0.7109313127573716,2.721130464614541
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.06",False,2.774936369149346,0.7028503865769884,2.7589029543114383
+30,smlt_mm,XGBoost,"n_estimators=300, max_depth=6, learning_rate=0.12",False,2.939363579014991,0.6910767691710341,2.8130284438139794

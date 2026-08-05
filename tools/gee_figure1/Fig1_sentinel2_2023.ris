@@ -1,0 +1,9 @@
+TY  - DATA
+TI  - Sentinel-2 MSI, Level-2A Surface Reflectance (Harmonized)
+AU  - European Space Agency
+PY  - 2023
+DA  - 2023///
+PB  - Copernicus Programme of the European Union / European Space Agency
+UR  - https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED
+N1  - Contains modified Copernicus Sentinel-2 data [2023]. Level-2A surface reflectance; 1 July to 30 September 2023 cloud-masked median composite; accessed via Google Earth Engine (collection COPERNICUS/S2_SR_HARMONIZED). Free and open under the Legal Notice on the Use of Copernicus Sentinel Data and Service Information (ESA / European Commission), CC BY 4.0 compatible.
+ER  -

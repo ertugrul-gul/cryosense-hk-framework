@@ -1,0 +1,8 @@
+Variable,mean,std,min,max
+2 m air temperature (deg C),4.019,9.837,-20.237,23.381
+Total precipitation (mm),2.676,6.694,0.0,83.121
+Snowfall (mm w.e.),1.778,5.786,0.0,79.254
+Snow cover (%),49.441,49.016,0.0,100.0
+Snow water equivalent (m w.e.),0.164,0.23,-0.0,1.066
+Snowmelt (mm w.e./day),1.92,5.421,0.0,31.887
+Snow depth (mm),583.469,753.715,-0.0,3233.236

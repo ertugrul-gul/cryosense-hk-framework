@@ -1,0 +1,13 @@
+horizon_days,target,block_len_days,n_test_days,n_effective_blocks
+1,snowc,2,4018,2009
+1,sd,2,4018,2009
+1,smlt_mm,2,4018,2009
+7,snowc,7,4018,574
+7,sd,10,4018,402
+7,smlt_mm,5,4018,804
+15,snowc,11,4018,366
+15,sd,18,4018,224
+15,smlt_mm,10,4018,402
+30,snowc,11,4018,366
+30,sd,25,4018,161
+30,smlt_mm,10,4018,402

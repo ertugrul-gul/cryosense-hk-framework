@@ -1,0 +1,13 @@
+horizon_days,target,algorithm,n_folds,median_rank_correlation,min_rank_correlation,top_feature_agreement,most_frequent_top_feature,features_in_every_top_three,shared_top_three
+1,snowc,Random Forest,5,1.0,1.0,1.0,snowc_lag0,3,"sd_lag0, sd_lag1, snowc_lag0"
+1,sd,Random Forest,5,0.9860139860139862,0.9720279720279721,1.0,sd_lag0,3,"sd_lag0, sd_lag1, sd_lag3"
+1,smlt_mm,Extra Trees,5,0.9790209790209792,0.9510489510489512,1.0,smlt_mm_lag1,3,"smlt_mm_lag1, smlt_mm_lag3, t2m_C"
+7,snowc,Extra Trees,5,1.0,1.0,1.0,snowc_lag0,3,"doy_cos, snowc_lag0, snowc_lag1"
+7,sd,Extra Trees,5,0.9999999999999999,0.9878787878787878,1.0,sd_lag0,2,"sd_lag0, sd_lag1"
+7,smlt_mm,XGBoost,5,1.0,1.0,1.0,smlt_mm_lag1,3,"doy_cos, sd_lag0, smlt_mm_lag1"
+15,snowc,Extra Trees,5,0.7976190476190477,0.6190476190476191,1.0,sd_lag0,1,sd_lag0
+15,sd,Extra Trees,5,0.9790209790209792,0.965034965034965,1.0,sd_lag0,3,"doy_cos, sd_lag0, sd_lag1"
+15,smlt_mm,Extra Trees,5,0.9515151515151514,0.8666666666666665,1.0,doy_cos,3,"doy_cos, sd_lag1, sd_lag7"
+30,snowc,Extra Trees,5,0.9790209790209792,0.9580419580419581,1.0,doy_cos,2,"doy_cos, net_radiation_W"
+30,sd,XGBoost,5,0.9440559440559442,0.9160839160839163,1.0,sd_lag0,3,"doy_cos, sd_lag0, t2m_C_lag7"
+30,smlt_mm,XGBoost,5,0.9142857142857144,0.8285714285714287,1.0,doy_sin,2,"doy_sin, sd_lag0"
