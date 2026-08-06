@@ -1,9 +1,10 @@
-# Figure 1 rebuild (copyright-clean for PLOS CC BY 4.0)
+# Figure 1 rebuild (copyright-clean for CC BY 4.0)
 
-The original Figure 1 used two Esri rasters (`turkey_esri_world_physical_wgs84.tif`,
+An earlier draft of Figure 1 used two Esri rasters (`turkey_esri_world_physical_wgs84.tif`,
 `cilo_sat_esri_world_imagery_wgs84.tif`). Esri imagery is proprietary and **not**
-CC BY 4.0 compatible, so PLOS cannot publish it (attribution alone is not enough).
-These steps rebuild the same layout from public-domain / CC-compatible sources.
+CC BY 4.0 compatible, so an open-access journal cannot publish it and attribution
+alone does not resolve that. These steps rebuild the same layout from
+public-domain and CC-compatible sources.
 
 ## Step 1 — Country relief (public domain, Natural Earth)
 The published figure uses the **Natural Earth I — Land Cover + Shaded Relief + Water**
@@ -49,5 +50,6 @@ Outputs `Fig1.tiff` (600 dpi, LZW) and a PNG preview to `outputs/figures/fig1_ma
 > Sentinel-2 data [2023], processed by the European Space Agency); administrative
 > boundaries from Natural Earth (public domain); glacier outlines from GLIMS.
 
-This caption satisfies PLOS's map-attribution requirement (direct source + license).
-No Content Permission Form is needed once the Esri layers are replaced.
+This caption gives the direct source and licence of every layer, which is what an
+open-access map attribution requires. No content permission form is needed once
+the Esri layers are replaced.

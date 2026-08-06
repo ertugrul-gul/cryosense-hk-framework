@@ -69,7 +69,7 @@ VARIABLES = {
     "surface_snow_amount": "snw",
 }
 
-# The historical window is the bias-correction reference the reviewers asked for;
+# The historical window is the reference period the bias correction is fitted on;
 # the scenario windows run to the end of the CMIP6 archive.
 EXPERIMENTS = {
     "historical": range(1985, 2015),
